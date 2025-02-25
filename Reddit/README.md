@@ -88,11 +88,11 @@ For next 3 years: 2.4 * 3 * 365 = 2.62TB
 
 # API design
 - We will define 5 endpoints for our Reddit API
-+ 1. GET /api/v1/posts: Returns a list of all posts in the database
-+ 2. GET /api/v1/posts/:id: Return a specific post by its ID
-+ 3. POST /api/v1/posts: Adds a new post to the database
-+ 4. PUT /api/v1/posts/:id: Updates a specific post by its ID 
-+ 5. DELETE /api/v1/posts/:id: Delete a specific posts by its ID
+1. GET /api/v1/posts: Returns a list of all posts in the database
+2. GET /api/v1/posts/:id: Return a specific post by its ID
+3. POST /api/v1/posts: Adds a new post to the database
+4. PUT /api/v1/posts/:id: Updates a specific post by its ID 
+5. DELETE /api/v1/posts/:id: Delete a specific posts by its ID
 
 ![alt text](image-1.png)
 

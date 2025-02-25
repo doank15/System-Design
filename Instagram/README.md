@@ -1,0 +1,23 @@
+# Phrases:
+- We cannot avoid errors when uploading file to cloud storage: chúng ta không thể tránh khỏi những lỗi xảy ra khi upload lên cloud storage
+- Handling work after a certain period of time: xử lý công việc sau một khoảng thời gian nhất định
+- Waiting time: thời gian chờ 
+- Fixed backoff: Sử lỗi trở lại 
+- We will encounter errors that are not network errors: Chúng ta sẽ gặp những lỗi không phải là do network.
+- Convert: chuyển đổi 
+- Best quality: chất lượng tốt nhất.
+- Thresholds: Ngưỡng, nghạch cửa.
+- Get stuck: bị tắc. 
+- Struggle: Khó khăn
+- Increasingly: ngày càng, lên
+- capable of: có khả năng 
+- I have crafted: Tôi đã làm thủ công 
+- from basic concepts to complex scenarios: Từ cơ bản đến trường hợp phức tạp 
+- Not only... but also: không chỉ mà còn 
+- aiming to: nhằm mục đích
+- Passive: Thụ động
+- Massive: To lớn
+- Extensive: Rộng rãi, mênh mông.
+- Practice makes perfect 
+- The more you..., the more
+- 
