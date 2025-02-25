@@ -1,6 +1,7 @@
 # Vocabulary
-- For the sake of something: Vì lợi ích của cái gì đó
-
+- For the sake of something: Vì lợi ích của cái gì đó.
+- Time-consuming tasks: Các task tốn nhiều thời gian.
+- 
 # Canva
 # What is Canva
 - Canva is a cloud-based graphic design platform. Cho phép users có thể tạo các bài thuyết trình, các mẫu thiết kế truyền thông trên mạng xã hội, posters, and more.
@@ -36,7 +37,7 @@
   + Application servers: Process design creation, editing and template rendering
   + Database servers: Store user data, designs, templates and other relevant information.
   + Database sharding: Partitioning the database to distribute data across multiple servers to handle large data volumes efficiently. 
-  + Caching: Utilizing caching mechanisms to reduce database load and improve response times for frequently accessed data.
+  + Caching: Utilizing caching mechanisms to reduce database load and i~~~~mprove response times for frequently accessed data.
   + Asynchronous Processing: Implementing queues and workers for time-consuming tasks like image processing and email notifications.
 # Assumptions
   + There will be more reads than writes, so the system needs to be designed as a read-heavy system.
@@ -56,3 +57,7 @@
   + /users -> POST, GET, PATCH, DELETE
   + /designs -> POST, GET, DELETE
   + /users/{user_id}/feed -> GET 
+
+![img.png](img.png)
+
+![img_1.png](img_1.png)
